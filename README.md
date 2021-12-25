@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pranav-2002
+- 👋 Hi, I’m Pranav
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.JS
 
